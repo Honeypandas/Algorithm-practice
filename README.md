@@ -1,2 +1,2 @@
 # Algorithm-practice
-C programming language exercise
+C++ programming language exercise
