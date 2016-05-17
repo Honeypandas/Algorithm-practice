@@ -1,2 +1,2 @@
-# C_EX
+# Algorithm-practice
 C programming language exercise
